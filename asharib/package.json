@@ -1,0 +1,14 @@
+{
+  "name": "asharib",
+  "version": "1.0.0",
+  "description": "Demo project, i will build it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello Asharib"
+  },
+  "keywords": [
+    "Ash"
+  ],
+  "author": "Asharib Ali Arain",
+  "license": "ISC"
+}

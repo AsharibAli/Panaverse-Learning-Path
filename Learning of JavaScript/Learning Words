@@ -1,0 +1,38 @@
+JavaScript Words Name
+
+This is `` Bactics 
+This is ; semicollom
+This is $ Dollar Sign
+This is # Hash
+This is _ underscore
+This is && Logical And
+This is || Loigcal Or
+This is + Addition
+This is - Subtraction
+This is * Multiplication
+This is / Division
+This is % Modulus
+This is ++ Increament operator
+This is -- Decreament operator
+This is ** exponentiation operator
+This is [] Square Brackets
+This is {} Chevron or Angle Bracket
+This is () Paranthesis or Round Brackets
+This is ^ circumflex or freestanding
+This is : Colon
+This is . Period or Full Stop
+This is , Comma
+This is @ at sign 
+This is \ BackSlash
+This is = Assignment Operator 
+This is == Check only the value
+This is === Check the value + type
+
+
+
+
+ <!-- KEYWORDS IN JAVASCRIPT?   -->
+ Keywords are tokens that have special meaning in JavaScript or Keywords are reserved words that are part of the syntax in the programming language. For example:
+
+There are 49 Keywords in JavaScript:
+in, instanceof, static, finally, public, do, else, const, class, return, let, catch, for, if, this, try, debugger, yield, extends, enum, export, null, switch, private, throw, while, case, await, super, default, void, var, package, interface, false, typeof, with, import, true, goto, arguments, function, eval, break, continue, new, delete, protected, implements
